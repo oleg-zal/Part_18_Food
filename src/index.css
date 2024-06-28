@@ -20,7 +20,16 @@ body {
   align-items: center;
   padding: 3rem 10%;
 }
-
+.center {
+  text-align: center;
+}
+.error {
+  max-width: 40rem;
+  margin: 1rem auto;
+  padding: 1rem;
+  background-color: #f4c7c7;
+  color: #3e0505;border-radius: 15px;
+}
 #main-header #title {
   display: flex;
   gap: 1rem;
